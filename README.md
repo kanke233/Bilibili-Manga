@@ -29,3 +29,5 @@
 2. 在任意目录下执行 `git clone https://github.com/BlueskyClouds/Bilibili-Manga && cd Bilibili-Manga`
 3. 使用 pip 安装依赖库, 参考命令`pip3 install requests rsa chardet`
 4. 使用 Cron 每日执行 `python3 manga_sign.py`
+
+设置好账号密码后，编辑README.md文件， 随意填写一个字符然后提交即可。
