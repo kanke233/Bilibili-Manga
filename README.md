@@ -13,11 +13,13 @@
 
 **本项目需要设置的 Secrets:**
 
-| 名称     | 内容          |   类型     |
+| 名称     | 内容           |   类型     |
 | -------- | ------------- |  ---- |
-| ACCOUNT  | 你的B站用户名  | 必写 |
-| PASSWORD | 你的B站密码    | 必写 |
-| PUSH_KEY | Server酱SCKEY | 可写 |
+| ACCOUNT  | 你的B站用户名   | 必写 |
+| PASSWORD | 你的B站密码     | 必写 |
+| PUSH_KEY | Server酱SCKEY值 | 可写 |
+
+[Server酱-微信推送](https://sc.ftqq.com/) 可直接使用你所注册的Github账号登陆，登录成功后点击'发送信息' 复制您的SCKEY值即可，具体微信绑定方式请查看Server酱 微信推送
 
 **本项目默认设置**: 每天早上 8 点打卡签到.
 

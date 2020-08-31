@@ -29,7 +29,7 @@ r = requests.post("https://manga.bilibili.com/twirp/activity.v1.Activity/ClockIn
     "platform": "android"
 })
 
-print("响应: " + r.text)
+# print("响应: " + r.text)
 if r.json()['code'] == 0:
     print("签到成功.")
     msg = msg + "签到成功🐶\n"
