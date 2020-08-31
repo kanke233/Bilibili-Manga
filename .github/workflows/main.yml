@@ -6,7 +6,7 @@ on:
     - cron: 00 00 * * *
 
 jobs:
-  bilibili_job:
+  Bilibili-Manga:
     runs-on: ubuntu-18.04
     steps:
       - name: Checkout master
