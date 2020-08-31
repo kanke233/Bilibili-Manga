@@ -1,0 +1,13 @@
+name: 'Bilibili-Manga'
+description: 'Bilibili 漫画自动签到.'
+#inputs:
+#  account:  # id of input
+#    description: 'B站账号'
+#    required: true
+#  password:
+#    description: 'B站密码'
+#    required: true
+
+runs:
+  using: 'docker'
+  image: 'dockerfile'
