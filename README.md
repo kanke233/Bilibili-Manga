@@ -9,7 +9,7 @@
 
 #### 方法一 使用 Github Actions(最简单, 推荐)
 
- B 站[视频教程](https://www.bilibili.com/video//).
+ B 站[视频教程](https://www.bilibili.com/video/av10000/).
 
 **本项目需要设置的 Secrets:**
 
