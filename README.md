@@ -27,3 +27,4 @@
 3. 使用 pip 安装依赖库, 参考命令`pip3 install requests rsa chardet`
 4. 使用 Cron 每日执行 `python3 Main.py`
 
+测试
