@@ -16,3 +16,4 @@ jobs:
         env:
           account: ${{ secrets.ACCOUNT }}
           password: ${{ secrets.PASSWORD }}
+          push_key: ${{ secrets.PUSH_KEY }}

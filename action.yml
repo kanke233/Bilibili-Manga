@@ -7,6 +7,9 @@ description: 'Bilibili 漫画自动签到.'
 #  password:
 #    description: 'B站密码'
 #    required: true
+#  push_key:
+#    description: 'Server酱 SCKEY'
+#    required: true
 
 runs:
   using: 'docker'
